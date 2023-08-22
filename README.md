@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/colinyzhou/colinyzhou/assets/142901352/91b1567d-a2a9-49e9-918e-b5b5e1ee25e1) I am Colin!
+<ul>
+<li>A master student studing Computing at University of St Andrews</li>
+<li>Former quantitative trader at a mutual fund in Beijing</li>
+<li>Master of Risk and Finance in London School of Economics and Political Science</li>
+</ul>
+
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinyzhou&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
