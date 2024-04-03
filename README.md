@@ -6,10 +6,11 @@
 
 ### About Me
 <em><ul>
-<li>🖥 A master student studing Computing at University of St Andrews</li>
+<li>🎓 A PhD student studing Management Science at University of Lancaster</li>
 <li>💼 Former quantitative trader at a mutual fund in Beijing</li>
-<li>🎓 Master of Risk and Finance in London School of Economics and Political Science</li>
-<li>💫 Learning software development continuously</li>
+<li>🖥 MSc in Computer Science in University of St Andrews</li>
+<li>💫 MSc in Finance and Risk in London School of Economics and Political Science</li>
+<li>🎓 BSc in Finance in Sichuan University</li>
 </ul></em>
 
 ### Things I code with
